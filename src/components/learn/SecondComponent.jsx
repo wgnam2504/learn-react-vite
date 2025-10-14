@@ -3,9 +3,11 @@
 
 const SecondComponent = () => {
     return(
-        <div>
-            Second component
-        </div>
+        <>
+            <div>
+                Second component
+            </div>
+        </>
     );
 }
 
