@@ -11,7 +11,7 @@ const App = () => {
   ])
 
   const ten = "Quang nam";
-  const age = 25;
+  const age = 25; 
   const data = {
     address: "ha noi",
     country: "vietnam"
